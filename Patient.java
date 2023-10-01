@@ -38,6 +38,7 @@ public class Patient extends Animal {
 
     void getMedication(List<String> problems) {
         Medication medication = veterinarian.prescribeMedication(problems);
+        medication.showDosage();
     }
 
     void setPayment(String paymentID, String patientID, int amount) {
@@ -46,5 +47,6 @@ public class Patient extends Animal {
 
     void pay(int amount) {
         paymentInfo.makePayment(amount);
+        System.out.println("Due: " + paymentInfo.getDue());
     }
 }
