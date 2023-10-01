@@ -1,0 +1,41 @@
+Hospital Information:
+Hospital Name: New York Animal Hospital
+Hospital ID: #H068391
+Hospital Address: Time Square, New York
+
+Patient Info:
+Name: Cooper
+Animal Kind: Dog
+Age: 3
+Wight: 17.4
+Height: 3.9
+Patient ID: #P191045
+Blood Group: XYZ+
+
+Owner Info:
+Owner Name:John Wick
+Owner ID:#O7234
+Owner Address:NY
+Owner Phone:017...5
+Owner Mail:john@continental.com
+
+Doctor Info:
+Name: Dr.X
+Veterinarian ID: #V868723
+Age: 34
+Specialization: General
+Address: null
+Phone: 014...9
+Mail: drX@nyah.com
+
+Syndromes:
+Can't properly eat
+Dizzy always
+
+Medication:
+Xz19 - 2 times a day
+Qxx97c - 1 time a day
+
+Payment:
+1800 successfully paid!
+Due: 367
